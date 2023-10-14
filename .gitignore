@@ -1,0 +1,4 @@
+*.tar.gz
+*.tar.gz.sig
+arangom-bin
+*.pkg.tar.zst
